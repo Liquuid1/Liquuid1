@@ -1,5 +1,3 @@
-¡Perfecto! Con la información que me has proporcionado, aquí tienes una propuesta para tu README en GitHub:
-
     👋 Hi, I’m @Liquuid1
     👀 I’m interested in developing video games, learning new programming languages, and exploring innovative tech solutions.
     🌱 I’m currently learning how to create video games using Godot 4.
